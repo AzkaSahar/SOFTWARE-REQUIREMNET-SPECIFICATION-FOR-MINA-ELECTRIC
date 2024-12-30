@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_J1fToLGXEe-UtJ1v2Ue9ug" name="deployment">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_J87YYLGXEe-UtJ1v2Ue9ug">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Node" xmi:id="_bYXUgLGXEe-UtJ1v2Ue9ug" name="Web Server">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_XyoHcLGYEe-UtJ1v2Ue9ug" name="React.js" fileName="React.js"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Node" xmi:id="_h9jf0LGXEe-UtJ1v2Ue9ug" name="Application Server">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_mb0lcLGYEe-UtJ1v2Ue9ug" name="Node.js" fileName=""/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="__cKZQLGfEe-UtJ1v2Ue9ug" name="Product Management" fileName=""/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_AlKBoLGgEe-UtJ1v2Ue9ug" name="User Management" fileName=""/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_BsKF8LGgEe-UtJ1v2Ue9ug" name="Review Management" fileName=""/>
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_G_u4YLGgEe-UtJ1v2Ue9ug" name="Admin Panel" fileName=""/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Node" xmi:id="_mByKQLGXEe-UtJ1v2Ue9ug" name="Database Server">
+    <nestedClassifier xmi:type="uml:Artifact" xmi:id="_opR7gLGYEe-UtJ1v2Ue9ug" name="MySQL Database" fileName=""/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:CommunicationPath" xmi:id="_vrlgoLGYEe-UtJ1v2Ue9ug" name="HTTP/HTTPS" memberEnd="_vruDgLGYEe-UtJ1v2Ue9ug _vrzjELGYEe-UtJ1v2Ue9ug">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_vrrAMLGYEe-UtJ1v2Ue9ug" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_vrrAMbGYEe-UtJ1v2Ue9ug" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_vruDgLGYEe-UtJ1v2Ue9ug" name="application server" type="_h9jf0LGXEe-UtJ1v2Ue9ug" association="_vrlgoLGYEe-UtJ1v2Ue9ug"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_vrzjELGYEe-UtJ1v2Ue9ug" name="web server" type="_bYXUgLGXEe-UtJ1v2Ue9ug" association="_vrlgoLGYEe-UtJ1v2Ue9ug"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:CommunicationPath" xmi:id="_0DBa8LGYEe-UtJ1v2Ue9ug" name="SQL " memberEnd="_0DDQIbGYEe-UtJ1v2Ue9ug _0DFFULGYEe-UtJ1v2Ue9ug">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_0DCpELGYEe-UtJ1v2Ue9ug" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_0DDQILGYEe-UtJ1v2Ue9ug" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_0DDQIbGYEe-UtJ1v2Ue9ug" name="database server" type="_mByKQLGXEe-UtJ1v2Ue9ug" association="_0DBa8LGYEe-UtJ1v2Ue9ug"/>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_0DFFULGYEe-UtJ1v2Ue9ug" name="application server" type="_h9jf0LGXEe-UtJ1v2Ue9ug" association="_0DBa8LGYEe-UtJ1v2Ue9ug"/>
+  </packagedElement>
+</uml:Model>

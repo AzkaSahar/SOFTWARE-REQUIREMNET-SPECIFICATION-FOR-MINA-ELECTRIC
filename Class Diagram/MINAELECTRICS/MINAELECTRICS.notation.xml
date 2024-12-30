@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_VzsQoHtVEe-fG_4FEhQlJw" type="PapyrusUMLClassDiagram" name="Class Diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_ZUgsAHtVEe-fG_4FEhQlJw" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZU1cIHtVEe-fG_4FEhQlJw" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ZU2DMHtVEe-fG_4FEhQlJw" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ZU2DMXtVEe-fG_4FEhQlJw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ZU5tkHtVEe-fG_4FEhQlJw" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_Ad3aEHzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_AdpXoHzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Ad3aEXzrEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_AxHGMHzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_Aw1ZYHzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_AxHGMXzrEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_BIz0gHzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_BIfrcHzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_BIz0gXzrEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Bfi5gHzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_BfWsQHzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Bfi5gXzrEe-564zNQLOjUg"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ZU5tkXtVEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ZU5tkntVEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ZU5tk3tVEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZU6UoHtVEe-fG_4FEhQlJw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ZU6UoXtVEe-fG_4FEhQlJw" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_ok3bIH6LEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_oj81IH6LEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ok3bIX6LEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_pFrpMH6LEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_pFATwH6LEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pFrpMX6LEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ZU6UontVEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ZU6Uo3tVEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ZU6UpHtVEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZU6UpXtVEe-fG_4FEhQlJw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_ZU6UpntVEe-fG_4FEhQlJw" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ZU6Up3tVEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ZU6UqHtVEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ZU6UqXtVEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZU6UqntVEe-fG_4FEhQlJw"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_ZUPmQHtVEe-fG_4FEhQlJw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZUgsAXtVEe-fG_4FEhQlJw" x="680" y="-40" width="181" height="181"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_6xU84HtcEe-fG_4FEhQlJw" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xVj8HtcEe-fG_4FEhQlJw" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_6xVj8XtcEe-fG_4FEhQlJw" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_6xVj8ntcEe-fG_4FEhQlJw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_6xVj83tcEe-fG_4FEhQlJw" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_eMeYAHzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_eMRjsHzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_eMeYAXzrEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_euKIwHzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_et9UcHzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_euKIwXzrEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_fQ964HzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_fQq_8HzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_fQ964XzrEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_IMeHgH87Ee-zebpEyN588Q" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_IL6t4H87Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_IMeHgX87Ee-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_KuaN4H89Ee-zebpEyN588Q" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_Ktm8oH89Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_KuaN4X89Ee-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_LRwykH89Ee-zebpEyN588Q" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_LRMK0H89Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LRwykX89Ee-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_f6LZUH9DEe-zebpEyN588Q" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_f5v7gH9DEe-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_f6LZUX9DEe-zebpEyN588Q"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_6xVj9HtcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_6xVj9XtcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_6xVj9ntcEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xVj93tcEe-fG_4FEhQlJw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_6xWLAHtcEe-fG_4FEhQlJw" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_EmsuMH6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_El0kcH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_EmsuMX6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_40pQoH80Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_4zvRsH80Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40pQoX80Ee-zebpEyN588Q"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_6xWLAXtcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_6xWLAntcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_6xWLA3tcEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xWLBHtcEe-fG_4FEhQlJw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_6xWLBXtcEe-fG_4FEhQlJw" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_6xWLBntcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_6xWLB3tcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_6xWLCHtcEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xWLCXtcEe-fG_4FEhQlJw"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_6xR5kHtcEe-fG_4FEhQlJw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6xU84XtcEe-fG_4FEhQlJw" x="-240" y="360" width="141" height="201"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_9LlY0HtcEe-fG_4FEhQlJw" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9Ln1EHtcEe-fG_4FEhQlJw" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_9LocIHtcEe-fG_4FEhQlJw" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9LocIXtcEe-fG_4FEhQlJw" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_9LocIntcEe-fG_4FEhQlJw" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_m4FdQHzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_m3zwcHzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_m4FdQXzrEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_nWIEIHzrEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_nV6owHzrEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_nWIEIXzrEe-564zNQLOjUg"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_9LocI3tcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_9LocJHtcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_9LocJXtcEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9LocJntcEe-fG_4FEhQlJw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_9LpDMHtcEe-fG_4FEhQlJw" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_HnuqcH81Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_HnOUIH81Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HnuqcX81Ee-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Iko-oH81Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_Ij1GUH81Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Iko-oX81Ee-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_J2fBAH81Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_J1e7cH81Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_J2fBAX81Ee-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_LnAjcH81Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_LmXDMH81Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LnAjcX81Ee-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_auMlAH81Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_atrAkH81Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_auMlAX81Ee-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JteHgH_8Ee-3ta9oIvwc0w" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_JsAH4H_8Ee-3ta9oIvwc0w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JteHgX_8Ee-3ta9oIvwc0w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_9LpDMXtcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_9LpDMntcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_9LpDM3tcEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9LpDNHtcEe-fG_4FEhQlJw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_9LpqQHtcEe-fG_4FEhQlJw" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_9LpqQXtcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_9LpqQntcEe-fG_4FEhQlJw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_9LpqQ3tcEe-fG_4FEhQlJw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9LpqRHtcEe-fG_4FEhQlJw"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_9LeEEHtcEe-fG_4FEhQlJw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Ll_4HtcEe-fG_4FEhQlJw" x="1660" y="340" width="161" height="201"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_d3ri0HziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_d3sJ4HziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_d3sJ4XziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_d3sJ4nziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_d3sJ43ziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_iNP_cHzjEe-564zNQLOjUg" source="PapyrusCSSForceValue">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_iNR0oHzjEe-564zNQLOjUg" key="collapsed" value="true"/>
+      </eAnnotations>
+      <children xmi:type="notation:Shape" xmi:id="_iSQT4HzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_iR8x4HzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iSQT4XzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ITMw4HzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_ISxTEHzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ITMw4XzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_QTzKQHzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_QTjSoHzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_QTzKQXzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Ttx90HzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_TtNWEHzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Ttx90XzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bKKP0HzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_bJ6YMHzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bKKP0XzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bnY-YHzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_bnH4oHzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bnY-YXzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_cD4tIHzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_cDrRwHzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_cD4tIXzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_eZf5oHzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_eZOM0HzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_eZf5oXzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_hD1Y8HzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_hDmvcHzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_hD1Y8XzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_i5LJ8HzmEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_i49ukHzmEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_i5LJ8XzmEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_BKZx8H9GEe-zebpEyN588Q" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_BJ9GAH9GEe-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_BKZx8X9GEe-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_TMgGYH__Ee-3ta9oIvwc0w" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_TL5CYH__Ee-3ta9oIvwc0w"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_TMgtcH__Ee-3ta9oIvwc0w"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_d3sJ5HziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_d3sJ5XziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_d3sJ5nziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d3sJ53ziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_d3sw8HziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_OF824H6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_OFY2MH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OF824X6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_d3sw8XziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_d3sw8nziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_d3sw83ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d3sw9HziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_d3sw9XziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_d3sw9nziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_d3sw93ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_d3sw-HziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d3sw-XziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_d3brMHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d3ri0XziEe-564zNQLOjUg" x="720" y="400"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_fQkBUHziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fQl2gHziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fQmdkHziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fQmdkXziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fQnEoHziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_LelSUHznEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_LeQiMHznEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LelSUXznEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Lx1lgHznEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_LxpYQHznEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Lx1lgXznEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_MFux4HznEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_MFh9kHznEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MFux4XznEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_MaObMHznEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_MZ_xsHznEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MaObMXznEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_olnYIH6CEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_okTJgH6CEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_olnYIX6CEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_pHhyYH6CEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_pGjiAH6CEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_pHhyYX6CEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fQnEoXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fQnEonziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fQnEo3ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fQnEpHziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fQnrsHziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_EOqc4H81Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_EOEnAH81Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_EOqc4X81Ee-zebpEyN588Q"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fQnrsXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fQnrsnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fQnrs3ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fQnrtHziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fQoSwHziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fQoSwXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fQoSwnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fQoSw3ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fQoSxHziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_fQaQUHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fQkBUXziEe-564zNQLOjUg" x="920" y="1160" width="160" height="180"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_fhIz8HziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_fhIz8nziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_fhJbAHziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_fhJbAXziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fhJbAnziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_BXh34HzpEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_BXL5oHzpEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_BXh34XzpEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_B0HtQHzpEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_Bz8uIHzpEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_B0HtQXzpEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Eb4J0H6CEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_EZx4EH6CEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Eb4J0X6CEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_E3RFUH6CEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_E1_S8H6CEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_E3RFUX6CEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fhJbA3ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fhJbBHziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fhJbBXziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fhJbBnziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fhJbB3ziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fhJbCHziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fhJbCXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fhJbCnziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fhJbC3ziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_fhKCEHziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_fhKCEXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_fhKCEnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_fhKCE3ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fhKCFHziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_fhG-wHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fhIz8XziEe-564zNQLOjUg" x="560" y="1140"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_f4wCsHziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f4wpwHziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_f4wpwXziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_f4xQ0HziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_f4xQ0XziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_aRWbsHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_aRLckHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aRWbsXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Z3o7MHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_Z3UyIHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Z3o7MXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_aojawHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_aoUKMHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aojawXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bBSD0HzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_bBDaUHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_bBSD0XzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_QqR5AH6FEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_QpDJ8H6FEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_QqR5AX6FEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_f4xQ0nziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_f4xQ03ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_f4xQ1HziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4xQ1XziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_f4xQ1nziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_rpZGoH6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_roP3IH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rpZGoX6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_FV0eAH6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_FUzKUH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FV0eAX6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_FurC4H6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_Ft2jgH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_FurC4X6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_f4xQ13ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_f4xQ2HziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_f4xQ2XziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4xQ2nziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_f4x34HziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_f4x34XziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_f4x34nziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_f4x343ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4x35HziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_f4sYUHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f4wCsXziEe-564zNQLOjUg" x="-200" y="760"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_gChpwHziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gCiQ0HziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gCiQ0XziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gCiQ0nziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gCiQ03ziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_XIRM8H6BEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_XFflwH6BEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_XIRM8X6BEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_XuGd4H6BEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_XsgicH6BEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_XuGd4X6BEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gCiQ1HziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gCiQ1XziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gCiQ1nziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gCiQ13ziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gCi34HziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_ztHsgH6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_zsWQcH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ztHsgX6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_E_g20H6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_E-pUIH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_E_g20X6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_T1cVkH8WEe-FSZqdWqTeMQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_TzktUH8WEe-FSZqdWqTeMQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_T1cVkX8WEe-FSZqdWqTeMQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gCi34XziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gCi34nziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gCi343ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gCi35HziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gCi35XziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gCi35nziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gCi353ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gCi36HziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gCi36XziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_gCfNgHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gChpwXziEe-564zNQLOjUg" x="260" y="960"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_gjtrQHziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gju5YHziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gju5YXziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gjvgcHziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gjvgcXziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_tFaXoHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_tFFngHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_tFaXoXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_YgtpwH6FEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_YfBAoH6FEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_YgtpwX6FEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ZvUx8H6FEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_ZtzvAH6FEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ZvUx8X6FEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gjvgcnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gjvgc3ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gjvgdHziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gjvgdXziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gjwHgHziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_w8TKsH6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_w7i8wH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_w8TKsX6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gjwHgXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gjwHgnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gjwHg3ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gjwHhHziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gjwHhXziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gjwHhnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gjwHh3ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gjwHiHziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gjwHiXziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_gjm9kHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gjtrQXziEe-564zNQLOjUg" y="1000"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_gq4qQHziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gq4qQnziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gq4qQ3ziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gq4qRHziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gq4qRXziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_0Gt3MHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_0GfNsHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_0Gt3MXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_zrBZsHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_zqqNUHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zrBZsXzqEe-564zNQLOjUg"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gq4qRnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gq4qR3ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gq4qSHziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gq4qSXziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gq5RUHziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_lhXzsH81Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_lgN9IH81Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lhXzsX81Ee-zebpEyN588Q"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gq5RUXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gq5RUnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gq5RU3ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gq5RVHziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gq5RVXziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gq5RVnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gq5RV3ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gq5RWHziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gq5RWXziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_gq3cIHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gq4qQXziEe-564zNQLOjUg" x="1200" y="440"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_gyqGMHziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gyqtQHziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gyqtQXziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gyqtQnziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gyqtQ3ziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_BbptcHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_BbdgMHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_BbptcXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_BDUtAHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_BC8SgHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_BDUtAXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_BwQrgHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_BwFFUHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_BwQrgXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_CK6nMHzqEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_CKr9sHzqEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_CK6nMXzqEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_GE_8YH6FEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_GDeSYH6FEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_GE_8YX6FEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gyqtRHziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gyqtRXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gyqtRnziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gyqtR3ziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gyrUUHziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_9QhmEH80Ee-zebpEyN588Q" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_9QBPwH80Ee-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_9QhmEX80Ee-zebpEyN588Q"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gyrUUXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gyrUUnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gyrUU3ziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gyrUVHziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_gyrUVXziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_gyrUVnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gyrUV3ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gyrUWHziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gyrUWXziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_gyo4EHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gyqGMXziEe-564zNQLOjUg" x="760" y="840"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_g5XLIHziEe-564zNQLOjUg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_g5XLInziEe-564zNQLOjUg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_g5XLI3ziEe-564zNQLOjUg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_g5XyMHziEe-564zNQLOjUg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_g5XyMXziEe-564zNQLOjUg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_IwI5oHzoEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_Iv0wkHzoEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_IwI5oXzoEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JF8xkHzoEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_JFs58HzoEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JF8xkXzoEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_JobMgHzoEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_JoNKEHzoEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JobMgXzoEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_KGJqUHzoEe-564zNQLOjUg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_KF8O8HzoEe-564zNQLOjUg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_KGJqUXzoEe-564zNQLOjUg"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_HEOPoH6DEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_HBnnkH6DEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_HEO2sH6DEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_Hfl9AH6DEe-nmZd1g0jCVQ" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_Hd-zcH6DEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Hfl9AX6DEe-nmZd1g0jCVQ"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_x8CioH9LEe-zebpEyN588Q" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_x7iMUH9LEe-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_x8CioX9LEe-zebpEyN588Q"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_ywNKgH9LEe-zebpEyN588Q" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MINAELECTRICS.uml#_yvxssH9LEe-zebpEyN588Q"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ywNKgX9LEe-zebpEyN588Q"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_g5XyMnziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_g5XyM3ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_g5XyNHziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g5XyNXziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_g5XyNnziEe-564zNQLOjUg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_lv7Y4H6MEe-nmZd1g0jCVQ" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MINAELECTRICS.uml#_luwUMH6MEe-nmZd1g0jCVQ"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lv7Y4X6MEe-nmZd1g0jCVQ"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_g5XyN3ziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_g5XyOHziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_g5XyOXziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g5XyOnziEe-564zNQLOjUg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_g5XyO3ziEe-564zNQLOjUg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_g5XyPHziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_g5XyPXziEe-564zNQLOjUg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_g5XyPnziEe-564zNQLOjUg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g5XyP3ziEe-564zNQLOjUg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MINAELECTRICS.uml#_g5V9AHziEe-564zNQLOjUg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_g5XLIXziEe-564zNQLOjUg" x="1320" y="880" height="160"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_Mm3-4H6OEe-nmZd1g0jCVQ" type="Comment_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Mm4l8H6OEe-nmZd1g0jCVQ" type="Comment_BodyLabel"/>
+    <element xmi:type="uml:Comment" href="MINAELECTRICS.uml#_MmztcH6OEe-nmZd1g0jCVQ"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Mm3-4X6OEe-nmZd1g0jCVQ" x="-360" y="-40" width="301"/>
+  </children>
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_VzsQoXtVEe-fG_4FEhQlJw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_VzsQontVEe-fG_4FEhQlJw"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_VzsQo3tVEe-fG_4FEhQlJw" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
+    <owner xmi:type="uml:Model" href="MINAELECTRICS.uml#_Vw2YAHtVEe-fG_4FEhQlJw"/>
+  </styles>
+  <element xmi:type="uml:Model" href="MINAELECTRICS.uml#_Vw2YAHtVEe-fG_4FEhQlJw"/>
+  <edges xmi:type="notation:Connector" xmi:id="_JcUR4HziEe-564zNQLOjUg" type="Generalization_Edge" source="_6xU84HtcEe-fG_4FEhQlJw" target="_ZUgsAHtVEe-fG_4FEhQlJw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_JcWHEHziEe-564zNQLOjUg" type="Generalization_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_MwqqoHz6Ee-564zNQLOjUg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_JcWHEXziEe-564zNQLOjUg" y="39"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_JcUR4XziEe-564zNQLOjUg"/>
+    <element xmi:type="uml:Generalization" href="MINAELECTRICS.uml#_Jb6CMHziEe-564zNQLOjUg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JcUR4nziEe-564zNQLOjUg" points="[80, 380, -643984, -643984]$[220, 280, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JdCqoHziEe-564zNQLOjUg" id="(0.425531914893617,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JdCqoXziEe-564zNQLOjUg" id="(0.3314917127071823,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_MsS04HziEe-564zNQLOjUg" type="Generalization_Edge" source="_9LlY0HtcEe-fG_4FEhQlJw" target="_ZUgsAHtVEe-fG_4FEhQlJw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_MsTb8HziEe-564zNQLOjUg" type="Generalization_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_YKulEHz4Ee-564zNQLOjUg" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_MsTb8XziEe-564zNQLOjUg" x="-1" y="37"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_MsS04XziEe-564zNQLOjUg"/>
+    <element xmi:type="uml:Generalization" href="MINAELECTRICS.uml#_Mr_S4HziEe-564zNQLOjUg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_MsS04nziEe-564zNQLOjUg" points="[380, 380, -643984, -643984]$[260, 280, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ms5R0HziEe-564zNQLOjUg" id="(0.2484472049689441,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ms544HziEe-564zNQLOjUg" id="(0.5524861878453039,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_59I7AH86Ee-zebpEyN588Q" type="Association_Edge" source="_6xU84HtcEe-fG_4FEhQlJw" target="_gyqGMHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_59JiEH86Ee-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ip-ncH9DEe-zebpEyN588Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_59JiEX86Ee-zebpEyN588Q" x="1" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_59KJIH86Ee-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_iqdvoH9DEe-zebpEyN588Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_59KJIX86Ee-zebpEyN588Q" x="1" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_59KJIn86Ee-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_iq830H9DEe-zebpEyN588Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_59KJI386Ee-zebpEyN588Q" x="99" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_59KJJH86Ee-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_irZjwH9DEe-zebpEyN588Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_59KJJX86Ee-zebpEyN588Q" x="-100" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_59KJJn86Ee-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ir9kcH9DEe-zebpEyN588Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_59KJJ386Ee-zebpEyN588Q" x="101" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_59KJKH86Ee-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_isqIAH9DEe-zebpEyN588Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_59KJKX86Ee-zebpEyN588Q" x="-102" y="-19"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_59I7AX86Ee-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_57n4EH86Ee-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_59I7An86Ee-zebpEyN588Q" points="[80, 500, -643984, -643984]$[540, 580, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5-zH4H86Ee-zebpEyN588Q" id="(0.9929078014184397,0.6965174129353234)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5-zH4X86Ee-zebpEyN588Q" id="(0.0,0.11976047904191617)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_gHFtkH87Ee-zebpEyN588Q" type="Association_Edge" source="_6xU84HtcEe-fG_4FEhQlJw" target="_f4wCsHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gHGUoH87Ee-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pgTxkH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gHGUoX87Ee-zebpEyN588Q" x="1" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gHGUon87Ee-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_phe2QH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gHG7sH87Ee-zebpEyN588Q" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gHG7sX87Ee-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_piaqYH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gHG7sn87Ee-zebpEyN588Q" x="72" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gHG7s387Ee-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pjscwH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gHG7tH87Ee-zebpEyN588Q" x="-74" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gHG7tX87Ee-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pk0eIH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gHG7tn87Ee-zebpEyN588Q" x="73" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gHG7t387Ee-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pl-7wH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_gHG7uH87Ee-zebpEyN588Q" x="-75" y="-17"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_gHFtkX87Ee-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_gFX2UH87Ee-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gHFtkn87Ee-zebpEyN588Q" points="[40, 540, -643984, -643984]$[300, 620, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gI2oIH87Ee-zebpEyN588Q" id="(0.851063829787234,0.9950248756218906)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gI3PMH87Ee-zebpEyN588Q" id="(0.4371584699453552,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_ocTsEH87Ee-zebpEyN588Q" type="Association_Edge" source="_6xU84HtcEe-fG_4FEhQlJw" target="_gChpwHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ocUTIH87Ee-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pm8lEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ocUTIX87Ee-zebpEyN588Q" x="1" y="-17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ocUTIn87Ee-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pnzgsH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ocUTI387Ee-zebpEyN588Q" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ocUTJH87Ee-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_porDYH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ocUTJX87Ee-zebpEyN588Q" x="245" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ocUTJn87Ee-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ppYOAH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ocUTJ387Ee-zebpEyN588Q" x="-247" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ocUTKH87Ee-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pqOikH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ocUTKX87Ee-zebpEyN588Q" x="245" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ocU6MH87Ee-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_prHTYH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ocU6MX87Ee-zebpEyN588Q" x="-248" y="-18"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ocTsEX87Ee-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_obrZ8H87Ee-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ocTsEn87Ee-zebpEyN588Q" points="[80, 500, -643984, -643984]$[660, 980, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_odbtcH87Ee-zebpEyN588Q" id="(0.9929078014184397,0.9950248756218906)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_odcUgH87Ee-zebpEyN588Q" id="(0.4819277108433735,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_Br1SwH9AEe-zebpEyN588Q" type="Dependency_Edge" source="_9LlY0HtcEe-fG_4FEhQlJw" target="_fQkBUHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Br3H8H9AEe-zebpEyN588Q" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oD-WcH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Br3H8X9AEe-zebpEyN588Q" x="1" y="37"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Br3vAH9AEe-zebpEyN588Q" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oEq6AH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Br3vAX9AEe-zebpEyN588Q" x="1" y="58"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Br1SwX9AEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Dependency" href="MINAELECTRICS.uml#_BrsI0H9AEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Br1Swn9AEe-zebpEyN588Q" points="[1480, 420, -643984, -643984]$[1340, 760, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Btk_MH9AEe-zebpEyN588Q" id="(0.0,0.4975124378109453)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BtlmQH9AEe-zebpEyN588Q" id="(0.625,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_RqrVEH9AEe-zebpEyN588Q" type="Dependency_Edge" source="_9LlY0HtcEe-fG_4FEhQlJw" target="_d3ri0HziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Rqr8IH9AEe-zebpEyN588Q" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oFWPcH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Rqr8IX9AEe-zebpEyN588Q" x="-1" y="38"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Rqr8In9AEe-zebpEyN588Q" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oGCzAH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_RqsjMH9AEe-zebpEyN588Q" x="-1" y="58"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_RqrVEX9AEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Dependency" href="MINAELECTRICS.uml#_RqjZQH9AEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_RqrVEn9AEe-zebpEyN588Q" points="[1480, 380, -643984, -643984]$[980, 400, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RsItoH9AEe-zebpEyN588Q" id="(0.0,0.29850746268656714)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_RsItoX9AEe-zebpEyN588Q" id="(0.5381165919282511,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_ThHSQH9AEe-zebpEyN588Q" type="Dependency_Edge" source="_9LlY0HtcEe-fG_4FEhQlJw" target="_gq4qQHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ThH5UH9AEe-zebpEyN588Q" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oG68wH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ThH5UX9AEe-zebpEyN588Q" x="1" y="37"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ThH5Un9AEe-zebpEyN588Q" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oIDlMH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ThH5U39AEe-zebpEyN588Q" x="1" y="57"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ThHSQX9AEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Dependency" href="MINAELECTRICS.uml#_ThFdEH9AEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ThHSQn9AEe-zebpEyN588Q" points="[1480, 380, -643984, -643984]$[1020, 980, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_TiMQUH9AEe-zebpEyN588Q" id="(0.0,0.29850746268656714)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_TiMQUX9AEe-zebpEyN588Q" id="(0.7407407407407407,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_vhaUQH9AEe-zebpEyN588Q" type="Dependency_Edge" source="_9LlY0HtcEe-fG_4FEhQlJw" target="_gyqGMHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vhbiYH9AEe-zebpEyN588Q" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_itKeUH9DEe-zebpEyN588Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vhbiYX9AEe-zebpEyN588Q" x="-1" y="38"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_vhbiYn9AEe-zebpEyN588Q" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_itl8IH9DEe-zebpEyN588Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vhbiY39AEe-zebpEyN588Q" x="-1" y="58"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vhaUQX9AEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Dependency" href="MINAELECTRICS.uml#_vhRKUH9AEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vhaUQn9AEe-zebpEyN588Q" points="[1480, 380, -643984, -643984]$[660, 500, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vi-agH9AEe-zebpEyN588Q" id="(0.0,0.29850746268656714)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vi_BkH9AEe-zebpEyN588Q" id="(0.6666666666666666,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_w2sFIH9AEe-zebpEyN588Q" type="Dependency_Edge" source="_9LlY0HtcEe-fG_4FEhQlJw" target="_6xU84HtcEe-fG_4FEhQlJw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_w2ssMH9AEe-zebpEyN588Q" type="Dependency_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oJGuEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_w2ssMX9AEe-zebpEyN588Q" x="-1" y="38"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_w2ssMn9AEe-zebpEyN588Q" type="Dependency_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oKa8sH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_w2ssM39AEe-zebpEyN588Q" x="-1" y="58"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_w2sFIX9AEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Dependency" href="MINAELECTRICS.uml#_w2q3AH9AEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_w2sFIn9AEe-zebpEyN588Q" points="[1480, 360, -643984, -643984]$[80, 380, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_w34_AH9AEe-zebpEyN588Q" id="(0.0,0.19900497512437812)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_w34_AX9AEe-zebpEyN588Q" id="(0.9929078014184397,0.09950248756218906)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_UVDwUH9DEe-zebpEyN588Q" type="Association_Edge" source="_6xU84HtcEe-fG_4FEhQlJw" target="_fQkBUHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UVEXYH9DEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_psDHgH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UVEXYX9DEe-zebpEyN588Q" x="1" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UVEXYn9DEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ps-UkH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UVEXY39DEe-zebpEyN588Q" x="1" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UVEXZH9DEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ptsGQH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UVEXZX9DEe-zebpEyN588Q" x="360" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UVEXZn9DEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pubtIH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UVEXZ39DEe-zebpEyN588Q" x="-363" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UVEXaH9DEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pvKF4H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UVEXaX9DEe-zebpEyN588Q" x="360" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UVEXan9DEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pv9-MH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UVEXa39DEe-zebpEyN588Q" x="-363" y="-17"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_UVDwUX9DEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_UUbeMH9DEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UVDwUn9DEe-zebpEyN588Q" points="[80, 460, -643984, -643984]$[1260, 760, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UWEc8H9DEe-zebpEyN588Q" id="(0.9929078014184397,0.8955223880597015)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UWEc8X9DEe-zebpEyN588Q" id="(0.0,0.1111111111111111)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_sZlgUH9DEe-zebpEyN588Q" type="Association_Edge" source="_6xU84HtcEe-fG_4FEhQlJw" target="_d3ri0HziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_sZlgU39DEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pw0SwH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sZlgVH9DEe-zebpEyN588Q" x="-1" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sZlgVX9DEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pxjSkH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sZlgVn9DEe-zebpEyN588Q" x="1" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sZlgV39DEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pySSYH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sZlgWH9DEe-zebpEyN588Q" x="250" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sZlgWX9DEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_py2TEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sZlgWn9DEe-zebpEyN588Q" x="-252" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sZlgW39DEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_pzhBcH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sZlgXH9DEe-zebpEyN588Q" x="252" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_sZlgXX9DEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p0NlAH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sZlgXn9DEe-zebpEyN588Q" x="-254" y="-18"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_sZlgUX9DEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_sYzdMH9DEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_sZlgUn9DEe-zebpEyN588Q" points="[40, 340, -643984, -643984]$[880, 420, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sa3SsH9DEe-zebpEyN588Q" id="(0.9929078014184397,0.39800995024875624)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sa3SsX9DEe-zebpEyN588Q" id="(0.0,0.07168458781362007)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_UZEbsH9FEe-zebpEyN588Q" type="Association_Edge" source="_d3ri0HziEe-564zNQLOjUg" target="_gq4qQHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZEbs39FEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uPzmkH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZEbtH9FEe-zebpEyN588Q" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZEbtX9FEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uRsc8H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZEbtn9FEe-zebpEyN588Q" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZEbt39FEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uStJkH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZEbuH9FEe-zebpEyN588Q" x="90" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZEbuX9FEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uTZGEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZEbun9FEe-zebpEyN588Q" x="-92" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZFCwH9FEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uT9t0H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZFCwX9FEe-zebpEyN588Q" x="90" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_UZFCwn9FEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_uUstoH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UZFCw39FEe-zebpEyN588Q" x="-92" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_UZEbsX9FEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_UYd-wH9FEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UZEbsn9FEe-zebpEyN588Q" points="[960, 662, -643984, -643984]$[980, 980, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UaFvYH9FEe-zebpEyN588Q" id="(0.9955156950672646,0.35842293906810035)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UaGWcH9FEe-zebpEyN588Q" id="(0.0,0.5546218487394958)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_O6gr0H9GEe-zebpEyN588Q" type="Association_Edge" source="_d3ri0HziEe-564zNQLOjUg" target="_fhIz8HziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_O6hS4H9GEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_2HO10H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_O6hS4X9GEe-zebpEyN588Q" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_O6hS4n9GEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_2IL4EH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_O6hS439GEe-zebpEyN588Q" x="1" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_O6hS5H9GEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_2JHsMH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_O6hS5X9GEe-zebpEyN588Q" x="80" y="-27"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_O6hS5n9GEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_2J020H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_O6hS539GEe-zebpEyN588Q" x="-83" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_O6hS6H9GEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_2Klr0H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_O6hS6X9GEe-zebpEyN588Q" x="83" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_O6hS6n9GEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_2LK6oH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_O6hS639GEe-zebpEyN588Q" x="-84" y="-18"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_O6gr0X9GEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_O5618H9GEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_O6gr0n9GEe-zebpEyN588Q" points="[1074, 540, -643984, -643984]$[660, 780, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_O7uMwH9GEe-zebpEyN588Q" id="(0.0,0.7598566308243727)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_O7uMwX9GEe-zebpEyN588Q" id="(0.5434782608695652,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_Y5xxUH9GEe-zebpEyN588Q" type="Association_Edge" source="_d3ri0HziEe-564zNQLOjUg" target="_gChpwHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Y5yYYn9GEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_z5GKUH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Y5yYY39GEe-zebpEyN588Q" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Y5yYZH9GEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_z7VmAH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Y5yYZX9GEe-zebpEyN588Q" x="2" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Y5yYZn9GEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_z8NIsH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Y5yYZ39GEe-zebpEyN588Q" x="133" y="-28"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Y5yYaH9GEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_z8rp0H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Y5yYaX9GEe-zebpEyN588Q" x="-146" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Y5yYan9GEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_z9OcYH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Y5yYa39GEe-zebpEyN588Q" x="110" y="21"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Y5yYbH9GEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_z9xO8H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Y5yYbX9GEe-zebpEyN588Q" x="-146" y="-18"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Y5yYYH9GEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_Y5NwoH9GEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Y5yYYX9GEe-zebpEyN588Q" points="[880, 520, -643984, -643984]$[720, 980, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Y62vYH9GEe-zebpEyN588Q" id="(0.0,0.7168458781362007)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Y62vYX9GEe-zebpEyN588Q" id="(0.8433734939759037,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_DBG_cH9HEe-zebpEyN588Q" type="Association_Edge" source="_d3ri0HziEe-564zNQLOjUg" target="_gjtrQHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_DBG_c39HEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rpgSsH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_DBG_dH9HEe-zebpEyN588Q" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DBG_dX9HEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rrOJ8H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_DBG_dn9HEe-zebpEyN588Q" x="-1" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DBG_d39HEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rr3DIH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_DBG_eH9HEe-zebpEyN588Q" x="169" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DBG_eX9HEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rsfVQH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_DBG_en9HEe-zebpEyN588Q" x="-171" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DBG_e39HEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rtFLIH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_DBG_fH9HEe-zebpEyN588Q" x="168" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_DBG_fX9HEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_rtroEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_DBG_fn9HEe-zebpEyN588Q" x="-171" y="-18"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_DBG_cX9HEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_DAsIsH9HEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DBG_cn9HEe-zebpEyN588Q" points="[880, 660, -643984, -643984]$[340, 860, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DCCMgH9HEe-zebpEyN588Q" id="(0.0,0.2724014336917563)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DCCMgX9HEe-zebpEyN588Q" id="(0.625,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_H3k_IH9HEe-zebpEyN588Q" type="Association_Edge" source="_d3ri0HziEe-564zNQLOjUg" target="_fQkBUHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_H3lmMH9HEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_vQ_WwH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_H3lmMX9HEe-zebpEyN588Q" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_H3lmMn9HEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_vSwRUH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_H3lmM39HEe-zebpEyN588Q" x="-1" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_H3lmNH9HEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_vTX8YH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_H3lmNX9HEe-zebpEyN588Q" x="93" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_H3lmNn9HEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_vT8kIH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_H3lmN39HEe-zebpEyN588Q" x="-94" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_H3lmOH9HEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_vUhy8H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_H3lmOX9HEe-zebpEyN588Q" x="93" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_H3lmOn9HEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_vVHBwH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_H3lmO39HEe-zebpEyN588Q" x="-94" y="-19"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_H3k_IX9HEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_H2wfwH9HEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_H3k_In9HEe-zebpEyN588Q" points="[1073, 520, -643984, -643984]$[1320, 760, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H4u1sH9HEe-zebpEyN588Q" id="(0.8071748878923767,0.996415770609319)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H4u1sX9HEe-zebpEyN588Q" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_iR7XAH9HEe-zebpEyN588Q" type="Association_Edge" source="_6xU84HtcEe-fG_4FEhQlJw" target="_g5XLIHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_iR7-EH9HEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p0_oIH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_iR7-EX9HEe-zebpEyN588Q" x="2" y="-17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_iR7-En9HEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p1_GoH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_iR7-E39HEe-zebpEyN588Q" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_iR7-FH9HEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p2xJwH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_iR7-FX9HEe-zebpEyN588Q" x="265" y="-18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_iR7-Fn9HEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p3uMAH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_iR7-F39HEe-zebpEyN588Q" x="-266" y="18"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_iR7-GH9HEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p43bgH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_iR7-GX9HEe-zebpEyN588Q" x="266" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_iR7-Gn9HEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_p5tJAH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_iR7-G39HEe-zebpEyN588Q" x="-268" y="-19"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_iR7XAX9HEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_iRJT4H9HEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_iR7XAn9HEe-zebpEyN588Q" points="[80, 460, -643984, -643984]$[900, 800, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_iS940H9HEe-zebpEyN588Q" id="(1.0,0.5970149253731343)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_iS940X9HEe-zebpEyN588Q" id="(0.0,0.25)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_SA3KAH9MEe-zebpEyN588Q" type="Association_Edge" source="_gyqGMHziEe-564zNQLOjUg" target="_g5XLIHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_SA3KA39MEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y2onwH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_SA3KBH9MEe-zebpEyN588Q" x="1" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_SA3KBX9MEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y3Rg8H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_SA3KBn9MEe-zebpEyN588Q" x="-1" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_SA3KB39MEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y32vwH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_SA3KCH9MEe-zebpEyN588Q" x="92" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_SA3KCX9MEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y4awcH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_SA3KCn9MEe-zebpEyN588Q" x="-94" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_SA3KC39MEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y5BNYH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_SA3KDH9MEe-zebpEyN588Q" x="92" y="19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_SA3KDX9MEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_y5knAH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_SA3KDn9MEe-zebpEyN588Q" x="-94" y="-19"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_SA3KAX9MEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_SAO34H9MEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_SA3KAn9MEe-zebpEyN588Q" points="[720, 540, -643984, -643984]$[940, 760, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SB4dsH9MEe-zebpEyN588Q" id="(1.0,0.47904191616766467)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SB4dsX9MEe-zebpEyN588Q" id="(0.0,0.75)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_vu0AoH9MEe-zebpEyN588Q" type="Association_Edge" source="_gyqGMHziEe-564zNQLOjUg" target="_fhIz8HziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_vu0Ao39MEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_09BFcH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vu0nsH9MEe-zebpEyN588Q" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_vu0nsX9MEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_09_V0H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vu0nsn9MEe-zebpEyN588Q" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_vu0ns39MEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_0-jWgH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vu0ntH9MEe-zebpEyN588Q" x="46" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_vu0ntX9MEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_0_GJEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vu0ntn9MEe-zebpEyN588Q" x="-48" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_vu0nt39MEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_0_o7oH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vu0nuH9MEe-zebpEyN588Q" x="46" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_vu0nuX9MEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_1ALuMH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_vu0nun9MEe-zebpEyN588Q" x="-48" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_vu0AoX9MEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_vuLugH9MEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vu0Aon9MEe-zebpEyN588Q" points="[620, 626, -643984, -643984]$[620, 780, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vvrjUH9MEe-zebpEyN588Q" id="(0.4444444444444444,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vvrjUX9MEe-zebpEyN588Q" id="(0.8695652173913043,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_eA0fcH9NEe-zebpEyN588Q" type="Association_Edge" source="_f4wCsHziEe-564zNQLOjUg" target="_gjtrQHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_eA0fc39NEe-zebpEyN588Q" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_qycu4H_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_eA0fdH9NEe-zebpEyN588Q" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_eA0fdX9NEe-zebpEyN588Q" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_q0EfgH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_eA0fdn9NEe-zebpEyN588Q" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_eA0fd39NEe-zebpEyN588Q" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_q0nSEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_eA0feH9NEe-zebpEyN588Q" x="12" y="-20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_eA0feX9NEe-zebpEyN588Q" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_q1QyUH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_eA0fen9NEe-zebpEyN588Q" x="-14" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_eA0fe39NEe-zebpEyN588Q" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_q2C1cH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_eA0ffH9NEe-zebpEyN588Q" x="12" y="20"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_eA0ffX9NEe-zebpEyN588Q" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_q2loAH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_eA0ffn9NEe-zebpEyN588Q" x="-14" y="-20"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_eA0fcX9NEe-zebpEyN588Q"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_eAWlYH9NEe-zebpEyN588Q"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_eA0fcn9NEe-zebpEyN588Q" points="[300, 786, -643984, -643984]$[300, 860, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_eB8g0H9NEe-zebpEyN588Q" id="(0.4371584699453552,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_eB8g0X9NEe-zebpEyN588Q" id="(0.375,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_M_ob0H_8Ee-3ta9oIvwc0w" type="Association_Edge" source="_9LlY0HtcEe-fG_4FEhQlJw" target="_g5XLIHziEe-564zNQLOjUg">
+    <children xmi:type="notation:DecorationNode" xmi:id="_M_7WwH_8Ee-3ta9oIvwc0w" type="Association_StereotypeLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oLTGcH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_M_7WwX_8Ee-3ta9oIvwc0w" y="-19"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_M_7Wwn_8Ee-3ta9oIvwc0w" type="Association_NameLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oMKCEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_M_790H_8Ee-3ta9oIvwc0w" x="1" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_M_790X_8Ee-3ta9oIvwc0w" type="Association_TargetRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oM9TUH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_M_790n_8Ee-3ta9oIvwc0w" x="153" y="-21"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_M_7903_8Ee-3ta9oIvwc0w" type="Association_SourceRoleLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oN2EIH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_M_791H_8Ee-3ta9oIvwc0w" x="-155" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_M_791X_8Ee-3ta9oIvwc0w" type="Association_SourceMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oOmSEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_M_791n_8Ee-3ta9oIvwc0w" x="153" y="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_M_7913_8Ee-3ta9oIvwc0w" type="Association_TargetMultiplicityLabel">
+      <styles xmi:type="notation:BooleanValueStyle" xmi:id="_oPXHEH_9Ee-3ta9oIvwc0w" name="IS_UPDATED_POSITION" booleanValue="true"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_M_8k4H_8Ee-3ta9oIvwc0w" x="-155" y="-19"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_M_ob0X_8Ee-3ta9oIvwc0w"/>
+    <element xmi:type="uml:Association" href="MINAELECTRICS.uml#_M9_dEH_8Ee-3ta9oIvwc0w"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_M_ob0n_8Ee-3ta9oIvwc0w" points="[1540, 520, -643984, -643984]$[1080, 760, -643984, -643984]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NDdL4H_8Ee-3ta9oIvwc0w" id="(0.37267080745341613,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_NDdy8H_8Ee-3ta9oIvwc0w" id="(0.7468879668049793,0.0)"/>
+  </edges>
+</notation:Diagram>
