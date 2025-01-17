@@ -3,6 +3,13 @@
 This repository contains the **Software Requirements Specification (SRS)** document for the Mina Electric e-commerce project. The SRS defines the functional and non-functional requirements, system design models, and other critical details required to build the database-driven e-commerce platform.
 
 ---
+## Group Members
+
+1. Azka Sahar Shaikh  
+2. Muhammad Sudais Katiya  
+3. Sumaiya Waheed
+
+---
 
 ## Overview
 
